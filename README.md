@@ -537,8 +537,8 @@ streamlit run dashboard/automotive_dashboard.py
 # Start exploring! 🚀
 ```
 
-**⭐ Jangan lupa star repository ini kalau helpful ya! It means the world to us! ⭐**
+**⭐ Jangan lupa star repository ini kalau helpful ya! It means the world to me! ⭐**
 
 ---
 
-*Last updated: August 2025 | Version 2.0 | Made with ❤️ and lots of ☕*
+*Last updated: August 2025 | Version 2.0*
