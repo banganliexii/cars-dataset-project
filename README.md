@@ -108,4 +108,4 @@ Dataset ini tuh hasil karya seorang automotive enthusiast yang bener-bener passi
 
 **Dataset ini bukan sekadar kumpulan angka - ini adalah foundation untuk membangun understanding yang mendalam tentang industri otomotif global. Mari kita transform raw data menjadi actionable business intelligence yang bisa drive real innovation dan strategic advantage di pasar yang kompetitif ini!**
 
-*Ready to accelerate your automotive analytics journey? Let's dive into the data dan discover insights yang bakal change the game!*
+*Last Updated Aug 4 2025 | Data is the new oil*
