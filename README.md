@@ -120,4 +120,4 @@ Dataset ini merupakan hasil karya seorang automotive enthusiast yang benar-benar
 
 **This dataset is not just a collection of numbers - it's the foundation for building deep understanding of the global automotive industry. Mari kita transform raw data into actionable business intelligence that can drive real innovation and strategic advantage in this competitive market!**
 
-*Last Updated: August 2025 | Powered by Advanced Data Analytics*
+*Last Updated: August 2025*
